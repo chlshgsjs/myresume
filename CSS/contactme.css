@@ -1,0 +1,57 @@
+body{
+  font-family: Calibri;
+}
+.main{
+  width: 70%;
+  height: 1000px;
+  margin: -10px;
+  position: fixed;
+  background-color: #85586F
+}
+.main h1{
+  text-align: center;
+  font-family: Freestyle Script;
+  font-size: 90px;
+  color: #F8EDE3;
+  text-shadow: 2px 3px 2px black;
+}
+.form{
+  background-color: #85586F;
+  width: 30%;
+  padding: 40px;
+  margin-left: 60%;
+  margin-top: -180px;
+  color: white;
+  box-shadow: -20px 20px 50px -20px black;
+  position: fixed;
+}
+.form input{
+  margin: 2px;
+  padding: 2px;
+}
+table{
+  padding: 5px;
+}
+.home{
+  width: 40px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 40px;
+  position: fixed;
+}
+.home img{
+  width: 40px;
+}
+.tbl{
+  position: fixed;
+  width:30%;
+  margin-left: 210px;
+  background-color: #F8EDE3;
+  border-radius: 25px;
+  padding: 50px;
+  margin-top: -40px;
+  text-align: center;
+}
+.tbl a{
+  color: black;
+}
